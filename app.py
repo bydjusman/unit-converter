@@ -5,7 +5,7 @@ from pint import UnitRegistry
 ureg = UnitRegistry()
 
 # Streamlit UI
-st.title("Unit Converter App")
+st.title("dj-Unit Converter App")
 st.write("Convert between different units easily!")
 
 # Conversion Categories
